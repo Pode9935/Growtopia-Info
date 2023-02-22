@@ -1,4 +1,4 @@
 # Growtopia Server Info
-https://www.whydoo.in/growtopia/server_data.php
+https://www.whydo.in/growtopia/server_data.php
 # Growtopia Online User
-https://www.whydoo.in/growtopia/online.php
+https://www.whydo.in/growtopia/online.php
